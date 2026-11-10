@@ -1,0 +1,2 @@
+# BNCHS_Sentinels_Programming_Notebook_Charles
+01100011 01101111 01110010 01101110 00001010
